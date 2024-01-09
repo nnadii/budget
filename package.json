@@ -4,12 +4,11 @@
   "description": "Javascript simple web application",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d ../budget",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://nnadii.github.io/budget_js/"
+    "url": "git+https://budgeti.vercel.app"
   },
   "author": "Nnadi .C Charles",
   "license": "MIT",
